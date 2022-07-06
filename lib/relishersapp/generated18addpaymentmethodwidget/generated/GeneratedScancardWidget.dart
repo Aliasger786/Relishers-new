@@ -80,7 +80,7 @@ class GeneratedScancardWidget extends StatelessWidget {
                             z: 0,
                             child: Container(
                               width: width,
-                              child: GeneratedScanCardWidget(),
+                              child: GeneratedScancardWidget(),
                             ))
                       ]);
                     })),

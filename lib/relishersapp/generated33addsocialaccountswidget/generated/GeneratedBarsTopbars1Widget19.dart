@@ -120,7 +120,7 @@ class GeneratedBarsTopbars1Widget19 extends StatelessWidget {
                       child: Container(
                         width: width,
                         height: height,
-                        child: GeneratedAddSocialAccountsWidget(),
+                        child: GeneratedAddsocialaccountsWidget(),
                       ))
                 ]);
               }),

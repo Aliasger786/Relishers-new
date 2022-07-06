@@ -39,7 +39,7 @@ class GeneratedTimeWidget13 extends StatelessWidget {
                           z: 0,
                           child: Container(
                             width: width,
-                            child: Generated25MinWidget1(),
+                            child: Generated25minWidget1(),
                           ))
                     ]);
                   })),

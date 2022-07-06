@@ -123,7 +123,7 @@ class GeneratedBarsTopbars1Widget12 extends StatelessWidget {
                         child: Container(
                           width: width,
                           height: height,
-                          child: GeneratedProfileSettingsWidget(),
+                          child: new GeneratedProfilesettingsWidget(),
                         ))
                   ]);
                 }),

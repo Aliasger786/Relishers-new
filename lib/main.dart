@@ -84,7 +84,8 @@ import 'package:flutterapp/relishersapp/generatedtoggleoffwidget4/GeneratedToggl
 import 'package:flutterapp/relishersapp/generatedform3phonewidget1/GeneratedForm3phoneWidget1.dart';
 import 'package:flutterapp/relishersapp/generatedform4searchactivewidget1/GeneratedForm4searchactiveWidget1.dart';
 import 'package:flutterapp/relishersapp/generatedframewidget1/GeneratedFrameWidget1.dart';
-
+import 'package:flutter/services.dart';
+import 'package:flutter_statusbarcolor/flutter_statusbarcolor.dart';
 void main() {
   runApp(RelishersApp());
 }
@@ -92,8 +93,11 @@ void main() {
 class RelishersApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    FlutterStatusbarcolor.setNavigationBarColor(Colors.transparent);
     return MaterialApp(
       title: 'Flutter Demo',
+
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),

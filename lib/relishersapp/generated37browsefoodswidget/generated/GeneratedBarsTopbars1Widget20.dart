@@ -120,7 +120,7 @@ class GeneratedBarsTopbars1Widget20 extends StatelessWidget {
                       child: Container(
                         width: width,
                         height: height,
-                        child: GeneratedBrowseFoodsWidget(),
+                        child: GeneratedBrowsefoodsWidget(),
                       ))
                 ]);
               }),

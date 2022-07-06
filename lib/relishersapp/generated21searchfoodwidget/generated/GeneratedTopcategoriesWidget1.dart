@@ -30,7 +30,7 @@ class GeneratedTopcategoriesWidget1 extends StatelessWidget {
               bottom: null,
               width: 115.0,
               height: 14.0,
-              child: GeneratedTopCategoriesWidget1(),
+              child: new GeneratedTopcategoriesWidget1(),
             ),
             Positioned(
               left: 0.0,

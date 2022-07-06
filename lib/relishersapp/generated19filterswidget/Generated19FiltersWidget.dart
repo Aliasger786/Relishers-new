@@ -53,7 +53,7 @@ class Generated19FiltersWidget extends StatelessWidget {
                 bottom: null,
                 width: 384.0,
                 height: 106.0,
-                child: GeneratedPriceRangeWidget(),
+                child: GeneratedPricerangeWidget(),
               ),
               Positioned(
                 left: 20.0,

@@ -25,7 +25,7 @@ class GeneratedFeatureditemsWidget extends StatelessWidget {
               bottom: null,
               width: 224.0,
               height: 16.0,
-              child: GeneratedFeaturedItemsWidget(),
+              child: new GeneratedFeatureditemsWidget(),
             ),
             Positioned(
               left: 0.0,

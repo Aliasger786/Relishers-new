@@ -123,7 +123,7 @@ class GeneratedBarsTopbars1Widget extends StatelessWidget {
                         child: Container(
                           width: width,
                           height: height,
-                          child: GeneratedSignInWidget(),
+                          child:  GeneratedSigninWidget(),
                         ))
                   ]);
                 }),

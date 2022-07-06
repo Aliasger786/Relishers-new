@@ -32,7 +32,7 @@ class GeneratedResendagainWidget extends StatelessWidget {
               bottom: null,
               width: 82.0,
               height: 11.0,
-              child: GeneratedResendAgainWidget(),
+              child: new GeneratedResendagainWidget(),
             )
           ]),
     );

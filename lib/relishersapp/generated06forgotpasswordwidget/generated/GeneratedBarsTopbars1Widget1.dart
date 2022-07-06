@@ -120,7 +120,7 @@ class GeneratedBarsTopbars1Widget1 extends StatelessWidget {
                       child: Container(
                         width: width,
                         height: height,
-                        child: GeneratedForgotPasswordWidget(),
+                        child: GeneratedForgotpasswordWidget(),
                       ))
                 ]);
               }),

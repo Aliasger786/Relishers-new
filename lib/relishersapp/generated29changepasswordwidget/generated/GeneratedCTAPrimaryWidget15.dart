@@ -64,7 +64,7 @@ class GeneratedCTAPrimaryWidget15 extends StatelessWidget {
                       child: Container(
                         width: width,
                         height: height,
-                        child: GeneratedChangePasswordWidget(),
+                        child: GeneratedChangepasswordWidget(),
                       ))
                 ]);
               }),
